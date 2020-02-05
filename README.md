@@ -5,6 +5,6 @@ This is a Selenium webscraper designed to scrape all 88207 (as of 02/02/2020) NG
 
 *Software requirements:*
 
-[ChromeDriver](https://chromedriver.chromium.org/getting-started) - **chromedriver.exe** should be open in the same directory as the notebook and .py file.
+[ChromeDriver](https://chromedriver.chromium.org/getting-started) - **chromedriver.exe** should be located in the same directory as the notebook and .py file.
 
 Feel free to contact me with any questions!
